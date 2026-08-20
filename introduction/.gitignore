@@ -7,3 +7,5 @@ coverage/
 .env*
 .env.example*
 README.md*
+bun.lock*
+metadata.json*
