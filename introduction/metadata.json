@@ -1,6 +1,0 @@
-{
-  "name": "Todo List & Task Manager",
-  "description": "A premium SaaS-style Todo and Task Management dashboard with categories, priorities, due dates, recurring tasks, analytics, search/filtering, drag-and-drop ordering, and customizable themes.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
